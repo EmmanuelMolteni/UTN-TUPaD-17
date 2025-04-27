@@ -4,14 +4,22 @@
 **Tecnicatura Universitaria en Programación**  
 📍 *Universidad Tecnológica Nacional*  
 
-## ✨ Estudiante  
+## AGREGEN SUS DATOS EN ESTE README.
+## ✨ Estudiantes del grupo de Programacion. 
 - **Nombre:** Emmanuel, Molteni
 - **Comisión:** M2025-17
 
-## 📂 Descripción del Repositorio  
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
+- **Nombre:** xxxxx
+- **Comisión:** M2025-17
 
-📌 **Estructura del repositorio:**  
-- Cada trabajo está organizado en carpetas individuales.  
-- Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
-- Se busca mantener un código limpio, ordenado y bien documentado.  
+- **Nombre:** xxxxx
+- **Comisión:** M2025-17
+
+- **Nombre:** xxxxx
+- **Comisión:** M2025-17
+
+- **Nombre:** xxxxx
+- **Comisión:** M2025-17
+
+## 📂 Descripción del Repositorio  
+Este repositorio almacena el trabajo practico de **TP Semana de Integracion 1 de Matematicas**.
