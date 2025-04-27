@@ -1,4 +1,4 @@
-# UTN-TUPaD-17
+# TP Semana de Integracion 1 de Matematicas.
 
 # 💻 Programación 1  
 **Tecnicatura Universitaria en Programación**  

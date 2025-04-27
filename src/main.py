@@ -26,6 +26,5 @@ def AdivinanzasBinarias():
             # Si el jugador acierta, suma 10 puntos, si falla, resta 5 puntos. Si llega a 0 puntos, el juego termina.
             # El valor inicial del puntaje es de 15 puntos. Si llega a 0 puntos, el juego termina y si llega a superar los 70 puntos, el juego termina y el jugador gana.
             
-
 if __name__ == "__main__":
     AdivinanzasBinarias()
