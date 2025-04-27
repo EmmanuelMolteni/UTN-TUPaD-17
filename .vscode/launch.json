@@ -1,0 +1,14 @@
+// Permite el depurador de Python para ejecutar el programa principal en el archivo main.py dentro de la carpeta src.
+// Este archivo de configuración es utilizado por Visual Studio Code para definir cómo se debe ejecutar el programa.
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Ejecutar Adivinanzas Binarias",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/main.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}

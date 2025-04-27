@@ -1,0 +1,41 @@
+Proyecto:
+Juego de Adivinanza en Binario:
+Muestren un número en binario y desafíen al usuario a adivinar su equivalente decimal, 
+o viceversa, reforzando la conversión entre ambos sistemas.
+
+
+Pautas del trabajo:
+
+1. Equipos y Organización:
+
+Formarán equipos de no más de 5 integrantes.
+Cada miembro del equipo debe participar activamente en la explicación del proyecto.
+2. Selección y Desarrollo del Proyecto:
+
+Elijan una de las actividades propuestas, o tomen otra según su interés.
+El proyecto debe utilizar únicamente los conceptos de programación aprendidos hasta la fecha.
+Integren aspectos matemáticos (por ejemplo, álgebra de Boole, sistema binario, etc.) y su aplicación en Python.
+3. Consultas Sincrónicas:
+
+Podrán participar en las sesiones de consultas sincrónicas tanto de matemáticas como de programación para resolver dudas y recibir retroalimentación.
+La asistencia a estas sesiones es fundamental para el correcto desarrollo del proyecto.
+4. Requerimientos Técnicos:
+
+Código en Python: Elaboren un programa claro, bien documentado y que resuelva el problema o simule el fenómeno matemático seleccionado.
+Video Explicativo:
+Graben un video en el que se muestre el funcionamiento del programa y se explique el proceso de desarrollo.
+Cada integrante debe explicar una parte del proyecto.
+Entrega:
+Suban el video a YouTube.
+Entreguen el enlace del video en la plataforma, acompañado de una breve descripción del proyecto y el código en Python.
+5. Evaluación:
+
+La evaluación será “cumple” o “no cumple” según los criterios establecidos en la rúbrica (se proporcionará por separado).
+Se evaluará la correcta aplicación de los conceptos matemáticos y de programación, la calidad del código, la claridad en la presentación del video y la participación activa en las consultas sincrónicas.
+6. Uso de Inteligencia Artificial:
+Integración en el Proceso: Utilizar herramientas de IA en todas las fases del proyecto, desde la generación de ideas hasta la refinación del problema, complementando el análisis y la creatividad del equipo.
+Iteraciones y Refinamiento: Emplear iteraciones que permitan mejorar progresivamente la solución, documentando cada paso del proceso.
+
+Evidencia y Justificación: Presentar evidencia documentada (capturas, reportes, registros) del uso de la IA y justificar cómo ha contribuido a optimizar el proyecto.
+
+El objetivo es aplicar de manera práctica lo aprendido, trabajar en equipo y comunicar sus ideas de forma clara y precisa. ¡Mucho éxito en el desarrollo del proyecto!
